@@ -20,3 +20,9 @@ const addingOneMoreThingInFeatureOnGithub = true;
 const addedOneMoreThingLocally = true;
 
 const oneMoreTestLocalFullStackHacks = false;
+
+const changedIt = true;
+
+const testFunction = () => {
+  console.log("work");
+};
