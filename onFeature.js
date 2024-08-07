@@ -20,3 +20,7 @@ const addingOneMoreThingInFeatureOnGithub = true;
 const addedOneMoreThingLocally = true;
 
 const changedIt = true;
+
+const testFunction = () => {
+  console.log("work");
+};
