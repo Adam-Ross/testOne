@@ -15,4 +15,6 @@ const testingFromPull = true;
 const testingLocalFeature = true;
 
 const addedOneMoreThing = true;
-const addingOneMoreThingInFeatureOnGithub = true
+const addingOneMoreThingInFeatureOnGithub = true;
+
+const addedOneMoreThingLocally = true;
