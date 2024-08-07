@@ -12,3 +12,9 @@ console.log(output);
 function addedOneMoreFunctionInFeature() {
   return null;
 }
+
+const chagnedLocally = () => null;
+
+function gonnaMakeItHappen() {
+  return null;
+}
