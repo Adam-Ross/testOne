@@ -1,8 +1,9 @@
 console.log("on feature");
 const addedToFeature = "From fullstackhacks";
-const addedFromAdamInFeature = 'true'
+const addedFromAdamInFeature = "true";
 
 function add(a, b) {
-  return a + b
+  return a + b;
 }
 
+const testFromlocal = true;
