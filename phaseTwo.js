@@ -13,6 +13,8 @@ function addedOneMoreFunctionInFeature() {
   return null;
 }
 
+const chagnedLocally = () => null;
+
 function gonnaMakeItHappen() {
-  return null
+  return null;
 }
