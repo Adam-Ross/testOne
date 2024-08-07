@@ -10,3 +10,5 @@ const testFromlocal = true;
 const oneMoreThingTosSolve = true;
 
 const testingFromPull = true;
+
+const testingLocalFeature = true;
