@@ -7,4 +7,6 @@ function add(a, b) {
 }
 
 const testFromlocal = true;
-const oneMoreThingTosSolve = true
+const oneMoreThingTosSolve = true;
+
+const testingFromPull = true;
