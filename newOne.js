@@ -1,2 +1,1 @@
-const newBranchmadeLocalChange = true;
-const addSomeOtherShit = "true";
+const conflict = true
