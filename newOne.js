@@ -22,3 +22,4 @@ const getNames = function (args) {
 
 const names = getNames(test);
 console.log(names);
+console.log("test main");
