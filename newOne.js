@@ -1,1 +1,1 @@
-const oneMoreConflict = "true";
+const oneMoreConflict = true
