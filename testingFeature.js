@@ -12,3 +12,5 @@ function someLocalChangesFunction() {
 function takeAwayCommentsAndAddFunction() {
   return "fucked it up.";
 }
+
+// added merge conflict
