@@ -1,4 +1,10 @@
-const feature = true
+const feature = true;
 function makeSomeFeature(feature) {
-  return feature
-}  
+  return feature;
+}
+
+const someLocalChanges = true;
+
+function someLocalChangesFunction() {
+  return someLocalChanges;
+}
